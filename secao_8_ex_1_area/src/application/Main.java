@@ -21,6 +21,8 @@ public class Main {
 		System.out.printf("AREA = %.2f%n", rectangle.area());
 		System.out.printf("PERIMETER = %.2f%n", rectangle.perimeter());
 		System.out.printf("DIAGONAL = %.2f%n", rectangle.diagonal());
+		
+		sc.close();
 	}
 
 }
