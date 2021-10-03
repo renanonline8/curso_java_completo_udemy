@@ -3,12 +3,17 @@ package application;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
+import java.util.stream.Collectors;
 
 import entities.Department;
+import entities.Dependencie;
 import entities.HourContract;
 import entities.Worker;
+import entities.enums.Genre;
+import entities.enums.Type;
 import entities.enums.WorkerLevel;
 
 public class Program {
@@ -53,6 +58,37 @@ public class Program {
 		System.out.println("Name: " + worker.getName());
 		System.out.println("Department: " + worker.getDepartment().getName());
 		System.out.println("Income for " + monthAndYear + ": " + String.format("%.2f", worker.income(year, month)));
+		
+		System.out.println();
+		System.out.print("How many dependencies to this worker? ");
+		int quantitieDependencies = sc.nextInt();
+		for (int i=0; i < quantitieDependencies; i++) {
+			System.out.println("Enter dependencie #" + (i + 1) + " data:");
+			System.out.print("Name: ");
+			String dependencieName = sc.next();
+			sc.nextLine();
+			System.out.print("Genre (M/F): ");
+			String dependencieGenre = sc.next();
+			System.out.print("Type (CONJUNGE/DESCENDENTE): ");
+			String dependencieType = sc.next();
+			System.out.print("Birth Date: ");
+			Date dependencieBirthDate = sdf.parse(sc.next());
+			Dependencie dependencie = new Dependencie(
+					dependencieName,
+					Genre.valueOf(dependencieGenre), 
+					Type.valueOf(dependencieType),
+					dependencieBirthDate
+					);
+			worker.addDependencie(dependencie);
+		}
+		
+		System.out.println();
+		System.out.println(worker.getName() + "' daughters");
+		List<Dependencie> daughters = worker.getDependencies().stream().filter(dependencie -> dependencie.getGenre() == Genre.F &&
+				dependencie.getType() == Type.DESCENDENTE).collect(Collectors.toList());
+		for (Dependencie daughter : daughters) {
+			System.out.println(daughter);
+		}
 		
 		sc.close();
 	}

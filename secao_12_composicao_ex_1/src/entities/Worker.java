@@ -14,6 +14,7 @@ public class Worker {
 	
 	private Department department;
 	private List<HourContract> contracts = new ArrayList<>();
+	private List<Dependencie> dependencies = new ArrayList<>();
 	
 	public Worker() {
 	}
@@ -81,5 +82,13 @@ public class Worker {
 			}
 		}
 		return sum;
+	}
+	
+	public void addDependencie(Dependencie dependencie) {
+		dependencies.add(dependencie);
+	}
+	
+	public List<Dependencie> getDependencies() {
+		return dependencies;
 	}
 }
