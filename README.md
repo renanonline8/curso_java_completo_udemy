@@ -7,6 +7,7 @@
 	- [Seção 13 :: Exercício de fixação](./secao_13_exercicio_fixacao)
 - Seção 14
 	- [Herança](./secao_14_heranca)
+	- [Upcasting e Downcasting](./secao_14_upcasting_downcasting)
 
 ## Tópicos Especiais
 - [StringBuilder](./string_builder)
