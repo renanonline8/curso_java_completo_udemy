@@ -1,1 +1,1 @@
-# Seção 14 :: Herança
+# SeÃ§Ã£o 14 :: HeranÃ§a
