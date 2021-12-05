@@ -1,13 +1,14 @@
-# CÃ³digos do curso JAVA COMPLETO
+# Códigos do curso JAVA COMPLETO
 
-## LiÃ§oes
-- SeÃ§Ã£o 13
-    - [SeÃ§Ã£o 13 :: EnumeraÃ§Ãµes e ComposiÃ§Ãµes](./secao_12_composicao_ex_1)
-    - [SeÃ§Ã£o 13 :: ExercÃ­cio resolvido 2 (demo StringBuilder)](./secao_13_composicao_ex2_StringBuilder)
-	- [SeÃ§Ã£o 13 :: ExercÃ­cio de fixaÃ§Ã£o](./secao_13_exercicio_fixacao)
-- SeÃ§Ã£o 14
-	- [HeranÃ§a](./secao_14_heranca)
-	- [Upcasting e Downcasting](./secao_14_upcasting_downcasting)
+## Lições
+- Seção 13
+    - [Seção 13 :: Enumerações e Composições](./secao_12_composicao_ex_1)
+    - [Seção 13 :: Exercício resolvido 2 (demo StringBuilder)](./secao_13_composicao_ex2_StringBuilder)
+    - [Seção 13 :: Exercício de fixação](./secao_13_exercicio_fixacao)
+- Seção 14
+    - [Herança](./secao_14_heranca)
+    - [Upcasting e Downcasting](./secao_14_upcasting_downcasting)
+    - [Sobreposição, palavra super, anotação e override](./secao_14_sobreposicao)
 
-## TÃ³picos Especiais
+## Tópicos Especiais
 - [StringBuilder](./string_builder)
