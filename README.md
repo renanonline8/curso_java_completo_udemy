@@ -9,6 +9,7 @@
     - [Herança](./secao_14_heranca)
     - [Upcasting e Downcasting](./secao_14_upcasting_downcasting)
     - [Sobreposição, palavra super, anotação e override](./secao_14_sobreposicao)
+    - [Exercício Resolvido](./secao_14_exercicio_resolvido)
 
 ## Tópicos Especiais
 - [StringBuilder](./string_builder)
