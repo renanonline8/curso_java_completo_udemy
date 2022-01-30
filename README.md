@@ -11,6 +11,9 @@
     - [Sobreposição, palavra super, anotação e override](./secao_14_sobreposicao)
     - [Exercício Resolvido](./secao_14_exercicio_resolvido)
     - [Execício de fixação 1](./secao_14_ex_fixacao_1)
+    - [Execício resolvido 2](./secao_14_licao_134_execicio_fixacao)
+- Seção 15
+    - [Exemplo de exceções](./secao_15_exemplo_excecao)
 
 ## Tópicos Especiais
 - [StringBuilder](./string_builder)
