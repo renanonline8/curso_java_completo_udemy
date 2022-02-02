@@ -14,6 +14,7 @@
     - [Execício resolvido 2](./secao_14_licao_134_execicio_fixacao)
 - Seção 15
     - [Exemplo de exceções](./secao_15_exemplo_excecao)
+    - [Exercício de fixação](./secao_15_licao_146_exercicio_fixacao)
 
 ## Tópicos Especiais
 - [StringBuilder](./string_builder)
