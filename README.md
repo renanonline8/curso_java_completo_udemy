@@ -19,6 +19,7 @@
     - [Exercício de fixação](./secao_17_exercicio_proposto)
 - Seção 19: Generics, Set e Map
     - [Exercício resolvido (Set)](./secao_19_set_exercicio_proposto)
+    - [Exercício proposto (Set)](./secao_19_set_exercicio)
 
 ## Tópicos Especiais
 - [StringBuilder](./string_builder)
