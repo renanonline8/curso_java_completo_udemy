@@ -21,6 +21,7 @@
     - [Exercício resolvido (Set)](./secao_19_set_exercicio_proposto)
     - [Exercício proposto (Set)](./secao_19_set_exercicio)
     - [Map - Demo 1](./secao_19_Map_Demo1)
+    - [Map - Demo 2](./secao_19_Map_Demo2)
 
 ## Tópicos Especiais
 - [StringBuilder](./string_builder)
