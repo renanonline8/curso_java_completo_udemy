@@ -17,6 +17,8 @@
     - [Exercício de fixação](./secao_15_licao_146_exercicio_fixacao)
 - Seção 17: Trabalhando com arquivos
     - [Exercício de fixação](./secao_17_exercicio_proposto)
+- Seção 19: Generics, Set e Map
+    - [Exercício resolvido (Set)](./secao_19_set_exercicio_proposto)
 
 ## Tópicos Especiais
 - [StringBuilder](./string_builder)
