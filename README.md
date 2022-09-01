@@ -1,6 +1,6 @@
 # Códigos do curso JAVA COMPLETO
 
-## Lições
+## Seções
 
 ### Seção 13
 - [Seção 13 :: Enumerações e Composições](./secao_12_composicao_ex_1)
@@ -31,6 +31,7 @@
 
 ### Seção 21: Acesso a banco de dados com JDBC
 - [Començando com JDBC](./secao_21_jdbc_getting_start)
+- [Recuperando dados](./secao_21_jdbc_get_data)
 
 ## Tópicos Especiais
 - [StringBuilder](./string_builder)
