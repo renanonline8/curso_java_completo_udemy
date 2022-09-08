@@ -29,9 +29,13 @@
 - [Map - Demo 2](./secao_19_Map_Demo2)
 - [Map - Exercício Resolvido](./secao_19_Map_exercicio)
 
+### Seção 20: Programação funcional e expressões lambdas
+- [Exercicio de fixação](./secao_20_exercicio_fixacao)
+
 ### Seção 21: Acesso a banco de dados com JDBC
 - [Començando com JDBC](./secao_21_jdbc_getting_start)
 - [Recuperando dados](./secao_21_jdbc_get_data)
+- [Inserindo dados](./secao_21_jdbc_insert_data)
 
 ## Tópicos Especiais
 - [StringBuilder](./string_builder)
