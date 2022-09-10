@@ -36,6 +36,9 @@
 - [Començando com JDBC](./secao_21_jdbc_getting_start)
 - [Recuperando dados](./secao_21_jdbc_get_data)
 - [Inserindo dados](./secao_21_jdbc_insert_data)
+- [Atualizando dados](./secao_21_jdbc_update_data)
+- [Deletando dados](./secao_21_jdbc_delete_data)
+- [Transação](./secao_21_jdbc_transaction)
 
 ## Tópicos Especiais
 - [StringBuilder](./string_builder)
