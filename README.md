@@ -40,6 +40,7 @@
 - [Deletando dados](./secao_21_jdbc_delete_data)
 - [Transação](./secao_21_jdbc_transaction)
 - [Padrão de objeto DAO](./secao_21_dao_pattern)
+- [Demo DAO](./secao_21_dao_demo)
 
 ## Tópicos Especiais
 - [StringBuilder](./string_builder)
