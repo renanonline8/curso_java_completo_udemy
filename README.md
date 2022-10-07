@@ -42,5 +42,9 @@
 - [Padrão de objeto DAO](./secao_21_dao_pattern)
 - [Demo DAO](./secao_21_dao_demo)
 
+### Seção 24: Nivelamento sobre JPA
+- [JPA](./secao_24_jpa)
+- [JPA Maven](./secao_24_jpa_maven)
+
 ## Tópicos Especiais
 - [StringBuilder](./string_builder)
