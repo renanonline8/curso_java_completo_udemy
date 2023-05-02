@@ -1,6 +1,6 @@
 # Códigos do curso JAVA COMPLETO
 
-## Seções
+## Seções do curso Java Completo do Nélio Alves
 
 ### Seção 13
 - [Seção 13 :: Enumerações e Composições](./secao_12_composicao_ex_1)
@@ -45,6 +45,15 @@
 ### Seção 24: Nivelamento sobre JPA
 - [JPA](./secao_24_jpa)
 - [JPA Maven](./secao_24_jpa_maven)
+
+## Projeto: Web services com Spring Boot e JPA/Hibernate
+- Faz parte do curso Java Completo do Nélio Alves
+- [GitHub](!https://github.com/renanonline8/workshop-springboot3-jpa)
+
+## Projeto: API Restful com SpringBoot e banco MongoDB (webService + NoSQL)
+- **Está em andamento!**
+- Faz parte do curso Java Completo do Nélio Alves
+- [GitHub](!https://github.com/renanonline8/workshop-mongodb-nelioalves)
 
 ## Tópicos Especiais
 - [StringBuilder](./string_builder)
